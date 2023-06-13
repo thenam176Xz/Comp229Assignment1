@@ -11,6 +11,10 @@ body {
   h6 {
     color: #1e1e1e;
   }
+  img {
+    width: 100%;
+    height: auto;
+  }
   
   a {
     color: #1e1e1e;
