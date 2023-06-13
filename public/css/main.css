@@ -11,7 +11,7 @@ body {
   h6 {
     color: #1e1e1e;
   }
-  img {
+  .aboutImg {
     width: 100%;
     height: auto;
   }
